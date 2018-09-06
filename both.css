@@ -1,16 +1,16 @@
 body {
-  background: lightsalmon;
+  background: rgb(58, 245, 11);
 }
 h1 {
   color: blue;
   text-align: center;
-  background-color: chartreuse;
+  background-color: rgb(124, 196, 53);
   font-size: 60px;
   font-style: oblique;
 
 }
 h2 {
-  color: rgb(241, 42, 7);
+  color: rgb(6, 230, 238);
   font-style: italic;
   text-align: center;
   font-style: italic;
@@ -22,7 +22,7 @@ p {
 }
 ul {
   line-height: 20px;
-  color: rgb(0, 0, 253);
+  color: rgb(97, 182, 41);
   font-feature-settings: "dlig";
 }
 p {line-height: 40px;
